@@ -1,0 +1,25 @@
+Project is created by my account
+Fork the project
+Pull the project to Git
+Project consists of only Readme file
+Create a branch - YourFirstName_Master - Here this the master branch for your project
+Checkout to that branch
+Now create a branch - Develop - is for Stable release and is created from master branch
+Now move to develop branch
+Create two feature branch - yourname1 & yourname2 - is to work on various features and once stable merge them to Develop branch
+Now move to the yourname1 and Create an Tutorial.html file with html tags
+Add Heading (h1) as - Welcome to Git and GitHub Training
+Commit the changes
+Now move to yourname2 and Create an Tutorial.html file
+Add Heading (h2) as - From SimpliLearn!
+Commit the changes
+Now rebase yourname1 branch with develop branch and then merge yourname2 branch to Develop Branch
+Now go to your Master Branch and create a HotFix branch
+Move to HotFix branch and create a new File Tutorial.html
+Commit the changes.
+rebase the changes to your Master Branch
+Now rebase the changes of your develop branch to your master branch using rebase
+Push all the changes to remote repo including branches
+Visit current repo (https://github.com/tabhresh/Git_GitHub_Project)
+Click issues Section and create and issue where you will post your project link
+Confirm the issue and you are done.
